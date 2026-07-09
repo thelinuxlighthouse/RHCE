@@ -53,20 +53,20 @@ Navigate to the desired module and execute the playbooks as described in the cor
 
 ## 📂 Repository Structure
 ```text
-├── Chapter_01_RHCSA_Tasks_and_Ansible_Fundamentals.md
-├── Chapter_02_Core_Components_of_Ansible.md
-├── Chapter_03_Configure_Ansible.md
-├── Chapter_04_Configure_Ansible_Managed_Nodes.md
-├── Chapter_05_Create_and_Distribute_SSH_Keys.md
-├── Chapter_06_Configure_Privilege_Escalation.md
-├── Chapter_07_Deploy_Files_To_Managed_Nodes.md
-├── Chapter_08_Run_Playbooks.md
-├── Chapter_09_Git_Source_Control.md
-├── Chapter_10_VS_Code_Ansible_Development.md
-├── Chapter_11_Create_Ansible_Plays_and_Playbooks.md
-├── Chapter_12_Roles_and_Collections.md
-├── Chapter_13_RHCSA_Tasks_Automation.md
-├── Chapter_14_Manage_Content.md
+├── Exam_Preparation/Chapter_01_RHCSA_Tasks_and_Ansible_Fundamentals.md
+├── Exam_Preparation/Chapter_02_Core_Components_of_Ansible.md
+├── Exam_Preparation/Chapter_03_Configure_Ansible.md
+├── Exam_Preparation/Chapter_04_Configure_Ansible_Managed_Nodes.md
+├── Exam_Preparation/Chapter_05_Create_and_Distribute_SSH_Keys.md
+├── Exam_Preparation/Chapter_06_Configure_Privilege_Escalation.md
+├── Exam_Preparation/Chapter_07_Deploy_Files_To_Managed_Nodes.md
+├── Exam_Preparation/Chapter_08_Run_Playbooks.md
+├── Exam_Preparation/Chapter_09_Git_Source_Control.md
+├── Exam_Preparation/Chapter_10_VS_Code_Ansible_Development.md
+├── Exam_Preparation/Chapter_11_Create_Ansible_Plays_and_Playbooks.md
+├── Exam_Preparation/Chapter_12_Roles_and_Collections.md
+├── Exam_Preparation/Chapter_13_RHCSA_Tasks_Automation.md
+├── Exam_Preparation/Chapter_14_Manage_Content.md
 └── README.md
 ```
 
