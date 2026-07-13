@@ -1,4 +1,4 @@
-# Red Hat Certified Engineer (RHCE) Exam Preparation
+# Red Hat Certified Engineer (RHCE) EX294 Exam Preparation
 
 A comprehensive repository dedicated to mastering the skills required for the **Red Hat Certified Engineer (RHCE)** certification. This project serves as a structured study guide, collection of practical labs, and automation scripts to help candidates prepare for the exam successfully.
 
