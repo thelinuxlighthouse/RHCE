@@ -39,7 +39,7 @@ To follow the labs in this repository, you will need:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/RHCE.git
+git clone https://github.com/thelinuxlighthouse/RHCE.git
 cd RHCE
 ```
 
